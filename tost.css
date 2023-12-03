@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Flex', sans-serif;
+}
+a{
+    color: white;
+     text-decoration: none;
+     }
+     a:hover{
+    color: white;
+     text-decoration: none;
+     }
+     a:visited{
+     color:white;
+     text-decoration: none;
+     }
+     a:active{
+     text-decoration: none;
+     }
+.head_img img{
+        width: 800px;
+        height: 500px;
+        margin-left: 600px;
+        margin-top: 70px;
+}
+.line{
+    text-align: center;
+    background-color: rgb(248, 58, 58);
+    color: white;
+    height: 50px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.imgheads img{
+    margin-left: 550px;
+    width: 400px;
+    height: 300px;
+ }
+ .pere a{
+    margin-left: 50px;
+    font-size: 14px;
+    color: black;
+}
+
+.main_foot{
+    margin-top: 200px;
+}
+.main_foot img{
+    width: 300px;
+}
+.maing{
+    background-color: rgb(27, 27, 27);
+    height: 100px;
+    margin-top: 100px;
+    color: white;
+}
+.foot_img_one{
+    display: flex;
+    margin-left: 100px;
+ 
+}
+.foot_text_one{
+    margin-left: 120px;
+}
+.foot_text_two{
+    margin-left: 120px;
+}
+.foot_text_three{
+    margin-left: 140px;
+}
+.foot_text_four{
+    margin-left: 120px;
+}
+.text_trans{
+    display: flex;
+    font-size: 13px;
+ font-weight: 800;
+ margin-left: 30px;
+  
+}
+.text_trans_two{
+    display: flex;
+    font-size: 13px;
+  font-weight: 800; 
+}
+
+.text_trans_tree{
+    display: flex;
+    font-size: 13px;
+ font-weight: 800;
+ margin-left: 30px;
+}
+.foot_text_five{
+    margin-left: 100px;
+
+}
+.foot_text_six{
+    margin-left: 130px;
+}
+.foot_img_two{
+    margin-left: 70px; 
+}
+.foot_text_seven{
+    margin-left: 40px;
+}
+.foot_text_eight{
+    margin-left: 100px; 
+}
+.boots{
+    margin-top: 80px;
+}
+.boos_text{
+    margin-top: 120px;
+    font-weight: 900;
+    margin-left: 200px;
+    font-size: 20px;
+}
+.foot_text_nine{
+    margin-left: 110px;
+}
+.boos{
+    margin-top: 80px;
+}
+
+.main_foot_two_2{
+    margin-top: 200px;
+}
+.qq{
+    margin-right: 50px;
+}
+.ww{
+    margin-right: 50px;
+}
+.vv{
+    margin-left: 50px;
+}
+.mm{
+    margin-right: 50px; 
+}
+.bb{
+    margin-left: 20px;
+}
+.xe{
+    margin-left: 30px;
+}
+.ce{
+    margin-left: 30px;
+}
+.xx{
+    margin-left: 60px;
+}
+.poj{
+    margin-left: 50px;
+}
