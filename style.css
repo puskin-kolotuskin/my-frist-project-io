@@ -19,9 +19,9 @@ a{
     text-decoration: none;
     }
 .imgheads img{ 
-   margin-left: 650px;
-   width: 400px;
-   height: 300px;
+ text-align: center;
+   width: 300px;
+   height: 200px;
 }
 
 .line{
@@ -29,9 +29,10 @@ a{
     background-color: rgb(248, 58, 58);
     color: white;
     height: 60px;
+	
     font-weight: 800;
     text-decoration: none;
-	display: flex;
+	
 }
 .main_title{
 	font-weight: 900;
@@ -77,10 +78,10 @@ a{
 
 }
 .qq{
-    margin-left: 120px;
+    margin-right: 50px;
 }
 .ww{
-    margin-right: 400px;  
+    margin-right: 50px;  
 }
 .pp{
 	margin-right: 200px;
@@ -117,14 +118,14 @@ a{
 .gi{
 	margin-left: 140px;
 }
-.ee{
-	margin-left: 100px;
-}
 .bio{
 	margin-left: 150px;
 }
 .bop{
 	margin-left: 210px;
+}
+.ee{
+	margin-left: 40px;
 }
 #slider { /*положение слайдера*/
     position: relative;
